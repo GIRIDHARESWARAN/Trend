@@ -2,8 +2,8 @@ streamlit
 numpy
 pandas
 scikit-learn
-opencv-python-headless
 moviepy
 imageio
 imageio-ffmpeg
 pyspark
+opencv-python-headless==4.8.1.78
